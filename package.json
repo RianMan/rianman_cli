@@ -1,0 +1,31 @@
+{
+  "name": "rianman_cli",
+  "version": "1.0.1",
+  "description": "一款快速搭建react的开发脚手架，一键生成",
+  "bin": {
+    "rimn": "./bin/index.js"
+  },
+  "directories": {
+    "lib": "some function for cli",
+    "bin": "project start file"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react脚手架",
+    "react cli",
+    "react creator"
+  ],
+  "author": "RianMan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "execa": "^2.0.3",
+    "inquirer": "^6.4.1",
+    "ora": "^3.4.0",
+    "shelljs": "^0.8.3"
+  }
+}
