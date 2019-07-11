@@ -27,5 +27,9 @@
     "inquirer": "^6.4.1",
     "ora": "^3.4.0",
     "shelljs": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RianMan/rianman_cli.git"
   }
 }
